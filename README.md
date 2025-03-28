@@ -1,6 +1,6 @@
-<h1> ILCC (integrated Linux Computer Control) </h1>
+<h1> ILCC (Integrated Linux Computer Control) </h1>
 <hr>
-ILCC (integrated Linux Computer Control) - Open Source приложение с графическим и консольным интерфейсом для мониторинга и тестирования состояния систем на архитектуре x86 под управлением Linux и Windows.
+ILCC (Integrated Linux Computer Control) - Open Source приложение с графическим и консольным интерфейсом для мониторинга и тестирования состояния систем на архитектуре x86 под управлением Linux и Windows.
 <hr>
 Основные функции программного обеспечения:
 <ul>
